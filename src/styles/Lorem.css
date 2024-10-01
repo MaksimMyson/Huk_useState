@@ -1,0 +1,10 @@
+.lorem-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 20px auto;
+    font-style: italic;
+    color: #333;
+  }
+  
